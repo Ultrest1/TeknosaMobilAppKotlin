@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/oylesine"
+        android:icon="@drawable/home"
+        android:title="Anasayfa"/>
+    <item
+        android:id="@+id/oylesine1"
+        android:icon="@drawable/bordersiparis"
+        android:title="Kategoriler"/>
+    <item
+        android:id="@+id/oylesine2"
+        android:icon="@drawable/shopping"
+        android:title="Sepetim"/>
+    <item
+        android:id="@+id/oylesine3"
+        android:icon="@drawable/favorite"
+        android:title="Favoriler"/>
+    <item
+        android:id="@+id/oylesine4"
+        android:icon="@drawable/info"
+        android:title="Destek"/>
+
+
+
+</menu>
