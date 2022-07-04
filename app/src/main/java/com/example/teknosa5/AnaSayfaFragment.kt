@@ -48,7 +48,7 @@ class AnaSayfaFragment : Fragment() {
         val e1= Esyalar("tel1","     Telefon")
         val e2= Esyalar("tv1","Televizyon,Ses ve Görüntü Sistemleri")
         val e3= Esyalar("cam1","Beyaz Eşya ve Ankastre")
-        val e4= Esyalar("foto1","Fotoğraf Makinasi ev Kamera")
+        val e4= Esyalar("foto1","Fotoğraf Makinasi ve Kamera")
         EsyalarListesi.add(e1)
         EsyalarListesi.add(e2)
         EsyalarListesi.add(e3)
